@@ -4,7 +4,7 @@
 2022년에 제작된 발로란트 홈페이지 템플릿입니다. (라이엇 코리아)
 이 링크로 접속
 # 🎮 VALORANT 프로젝트
-[![Website Preview]](https://kos-noise.github.io/VALORANT/valorant.html)
+[![Website Preview]](https://kos-noise.github.io/VALORANT/)
 👆 위 이미지를 클릭하면 웹사이트로 바로 이동합니다!
 
 
