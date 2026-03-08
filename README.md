@@ -2,6 +2,8 @@
 2022년 제작 (KOS noise)
 
 2022년에 제작된 발로란트 홈페이지 템플릿입니다. (라이엇 코리아)
+이 링크로 접속
+[VALORANT-KOSNOISE](https://kos-noise.github.io/VALORANT/valorant.html)
 
 
 ## 📝 Project Overview
